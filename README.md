@@ -1,2 +1,2 @@
-# -IKB42603-CLOUD-COMPUTING-SECURITY-ESSENTIALS
-Cloud Computing Security Essentials Labs)
+# IKB42603-CLOUD-COMPUTING-SECURITY-ESSENTIALS
+Cloud Computing Security Essentials Labs
